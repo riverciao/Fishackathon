@@ -35,5 +35,5 @@ class ChartViewController: UIViewController, UITableViewDelegate, UITableViewDat
         return self.view.bounds.height/2
     }
     
-    
+
 }
